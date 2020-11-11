@@ -1,1 +1,0 @@
-> ffmpeg -i v.mp4 -i a.mp3 -map 0:v -map 1:a -c:v copy -c:a copy output.mp4 -y
