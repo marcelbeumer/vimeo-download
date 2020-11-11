@@ -4,7 +4,7 @@ Forked from https://github.com/alexeygrigorev/vimeo-download
 
 ```
 brew install ffmpeg
-pip3 install -r requirements.txt
+pip3 install --user -r requirements.txt
 ```
 
 ```
